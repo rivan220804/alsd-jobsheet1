@@ -75,5 +75,6 @@ public class Array{
             case "D" -> 1.0;
             default -> 0.0;
         };
+        
     }
 }

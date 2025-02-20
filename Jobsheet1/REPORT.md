@@ -3,7 +3,7 @@
 | NIM |  244107020239|
 | Nama |  Rivan Fahlul Fadillah |
 | Kelas | TI - 1H |
-| Repository | [link] ( ) |
+| Repository | [link] (https://github.com/rivan220804/alsd-jobsheet1/tree/main/Jobsheet1 ) |
 
 # JOBSHEET 1
 

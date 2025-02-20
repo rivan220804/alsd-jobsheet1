@@ -19,7 +19,7 @@ public class Tugas1 {
         };
         System.out.print("Masukkan kode plat nomor: ");
         char inputKode = Character.toUpperCase(sc.next().charAt(0));
-        
+    
         boolean ditemukan = false;
         for (int i = 0; i < kode.length; i++) {
             if (kode[i] == inputKode) {
